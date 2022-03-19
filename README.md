@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar Bhardwaj</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
+- 👨‍💻 All of my projects are available at [https://my-portfolio-main-itarun1.vercel.app/](https://my-portfolio-main-itarun1.vercel.app/)
+
+- 📫 How to reach me **tarun7599.bhardwaj@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yMNhgRH0SMF-Z_LVZq2RCJcOkb7QjXB3/view](https://drive.google.com/file/d/1yMNhgRH0SMF-Z_LVZq2RCJcOkb7QjXB3/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//tarun-kumar-bhardwaj-776a9b18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/tarun-kumar-bhardwaj-776a9b18b/" height="30" width="40" /></a>
@@ -14,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itarun1&show_icons=true&locale=en" alt="itarun1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itarun1&" alt="itarun1" /></p>
-

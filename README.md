@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tarun7599.bhardwaj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yMNhgRH0SMF-Z_LVZq2RCJcOkb7QjXB3/view](https://drive.google.com/file/d/1yMNhgRH0SMF-Z_LVZq2RCJcOkb7QjXB3/view)
+- 📄 Know about my experiences <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script> <i class='fab fa-google-drive' style='font-size:24px'>[https://drive.google.com/file/d/1yMNhgRH0SMF-Z_LVZq2RCJcOkb7QjXB3/view](https://drive.google.com/file/d/1yMNhgRH0SMF-Z_LVZq2RCJcOkb7QjXB3/view)</i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar Bhardwaj</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-main-itarun1.vercel.app/](https://my-portfolio-main-it)
+- 👨‍💻 All of my projects are available at [Portfolio/](https://my-portfolio-main-ithttps://my-portfolio-main-itarun1.vercel.app/)
 
 - 📫 How to reach me **tarun7599.bhardwaj@gmail.com**
 
-- 📄 Know about my experiences <i class='fab fa-google-drive' style='font-size:24px'>[https://drive.google.com/file/d/1yMNhgRH0SMF-Z_LVZq2RCJcOkb7QjXB3/view](https://drive.google.com/file/d/1yMNhgRH0SMF-Z_LVZq2RCJcOkb7QjXB3/view)</i>
+- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1yMNhgRH0SMF-Z_LVZq2RCJcOkb7QjXB3/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>
-As a Full Stack development expert at Genefied, I focus on building scalable and efficient systems using Node.js, ensuring seamless integration with frontend technologies. While backend development is my core strength, I have a solid understanding of full-stack concepts, which helps me approach projects with a broader perspective.
+As a Full Stack development expert at Star Health Insurance, I focus on building scalable and efficient systems using Node.js, ensuring seamless integration with frontend technologies. While backend development is my core strength, I have a solid understanding of full-stack concepts, which helps me approach projects with a broader perspective.
 
 - 🌱 Currently, I’m expanding my skills in Docker, Kubernetes and GCP, eager to explore innovative cloud solutions.
 - 🔭 With a passion for problem-solving and a commitment to continuous learning, I’m excited to bring my expertise to dynamic teams, contributing to impactful projects and driving technological growth.
